@@ -1,0 +1,4 @@
+interface:
+  display_name: "Easy Exam"
+  short_description: "用首次盲测、错题纠正与迁移验证驱动通过性考试备考"
+  default_prompt: "Use $easy-exam-skill to plan today’s study, blind test, correction, and progress update from my exam profile."
